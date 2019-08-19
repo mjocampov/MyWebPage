@@ -8,13 +8,15 @@ Francisco Jose MacAllister
 
 ### Objectives
 
+This project aims to achieve a personal web page showing the most relevant information. This required the implementation of different strategic tools of which he had no domain.
+
 ### Tecnologies 
 * HTML5
 * CSS
 * JavaScript
 * Bootstrap
 
-###License
+### License
 MIT License
 
 Copyright (c) 2019 fj-mac
