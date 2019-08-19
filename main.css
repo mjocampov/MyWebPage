@@ -30,11 +30,11 @@ header p {
 
 .jumbotron {
   display: flex;
-  align-items: center;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+  align-items: baseline;
+  background-image: url('./Imagenes/tawingo.jpg');
   background-size: cover;
   color: #ffffff;
-  height: 500px;
+  height: 700px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
@@ -83,7 +83,15 @@ section .row img {
     text-justify: inter-word;
 }
 #infoImportante{
-	font-weight:bold
+	font-weight:bold;
+}
+
+.titleC{
+  text-align: center;
+}
+button {
+  margin:auto;
+  display:block;
 }
 
 footer {
